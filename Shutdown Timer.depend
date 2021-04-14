@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1504696112 source:c:\users\linons\desktop\shutdown timer\main.cpp
+	<iostream>
+	<sstream>
+	<cstdlib>
+
